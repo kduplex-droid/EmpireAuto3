@@ -8,7 +8,7 @@
     --bosch-deep-blue: #003b74;
     --ink: #101820;
     --text: #ffffff;
-    --muted: #6b7280;
+    --muted: #ffffff;
     --line: #d7e2ee;
     --surface: #f4f8fc;
     --white: #ffffff;
@@ -290,7 +290,7 @@
   .section-head h2,
   .contact-card h2 {
     margin: 0 0 1rem;
-    color: #807c7c;
+    color: #ffffff;
     line-height: 1.05;
   }
 
