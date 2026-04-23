@@ -509,7 +509,7 @@
 
   .site-footer {
     padding: 1.3rem 0 2rem;
-    background: rgba(255, 255, 255, 0.95);
+    background: linear-gradient(280deg, rgba(9, 32, 105, 0.92) 0%, rgba(0, 0, 0, 0.92));
   }
 
   .footer-wrap {
