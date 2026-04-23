@@ -426,7 +426,7 @@
   .product-card,
   .highlight-card,
   .contact-card {
-    background: rgba(255, 255, 255, 0.97);
+    background: rgba(0, 0, 0, 0.97);
     border: 1px solid rgba(0, 59, 116, 0.08);
     border-radius: var(--radius);
     box-shadow: var(--shadow);
@@ -475,7 +475,7 @@
   .product-content h3,
   .highlight-card h3 {
     margin: 0 0 0.65rem;
-    color: var(--ink);
+    color: #ffffff;
   }
 
   .highlight-grid,
